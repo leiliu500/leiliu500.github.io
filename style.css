@@ -136,7 +136,7 @@ h3 {
   font-size: 36px;
   line-height: 1.3;
 }
-/* line 52, ../sass/util/_reset.scss */
+
 
 a {
   color: #333;
@@ -144,7 +144,7 @@ a {
   outline: 0;
 }
 
-/* line 49, ../sass/main.scss */
+
 .main {
   *zoom: 1;
   max-width: 1050px;
@@ -190,7 +190,7 @@ a {
   display: table;
   clear: both;
 }
-/* line 29, ../sass/parts/_about.scss */
+
 .gallery .gallery-wrap .gallery-intro h3 {
   font-size: 18px;
   font-size: 1.8rem;
@@ -217,13 +217,13 @@ padding-left: 0%;
 margin-right: 0%;
 padding-right: 0%;
 }
-/* line 38, ../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+
 .gallery .gallery-wrap:after {
 content: "";
 display: table;
 clear: both;
 }
-/* line 19, ../sass/parts/_about.scss */
+
 .gallery .gallery-wrap .gallery-intro {
 margin-left: 17.14286%;
 width: 65.71429%;
@@ -254,7 +254,7 @@ h3 {
   font-size: 36px;
   line-height: 1.3;
 }
-/* line 52, ../sass/util/_reset.scss */
+
 
 a {
   color: #333;
@@ -262,7 +262,7 @@ a {
   outline: 0;
 }
 
-/* line 49, ../sass/main.scss */
+
 .main {
   *zoom: 1;
   max-width: 1050px;
@@ -308,7 +308,7 @@ a {
   display: table;
   clear: both;
 }
-/* line 29, ../sass/parts/_about.scss */
+
 .booking .booking-wrap .booking-intro h3 {
   font-size: 18px;
   font-size: 1.8rem;
@@ -335,13 +335,13 @@ padding-left: 0%;
 margin-right: 0%;
 padding-right: 0%;
 }
-/* line 38, ../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+
 .booking .booking-wrap:after {
 content: "";
 display: table;
 clear: both;
 }
-/* line 19, ../sass/parts/_about.scss */
+
 .booking .booking-wrap .booking-intro {
 margin-left: 17.14286%;
 width: 65.71429%;
@@ -373,7 +373,7 @@ h3 {
   font-size: 36px;
   line-height: 1.3;
 }
-/* line 52, ../sass/util/_reset.scss */
+
 
 a {
   color: #333;
@@ -381,7 +381,7 @@ a {
   outline: 0;
 }
 
-/* line 49, ../sass/main.scss */
+
 .main {
   *zoom: 1;
   max-width: 1050px;
@@ -427,7 +427,7 @@ a {
   display: table;
   clear: both;
 }
-/* line 29, ../sass/parts/_about.scss */
+
 .about .about-wrap .about-intro h3 {
   font-size: 18px;
   font-size: 1.8rem;
@@ -454,13 +454,13 @@ padding-left: 0%;
 margin-right: 0%;
 padding-right: 0%;
 }
-/* line 38, ../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+
 .about .about-wrap:after {
 content: "";
 display: table;
 clear: both;
 }
-/* line 19, ../sass/parts/_about.scss */
+
 .about .about-wrap .about-intro {
 margin-left: 17.14286%;
 width: 65.71429%;
@@ -492,7 +492,7 @@ h3 {
   font-size: 36px;
   line-height: 1.3;
 }
-/* line 52, ../sass/util/_reset.scss */
+
 
 a {
   color: #333;
@@ -500,7 +500,7 @@ a {
   outline: 0;
 }
 
-/* line 49, ../sass/main.scss */
+
 .main {
   *zoom: 1;
   max-width: 1050px;
@@ -546,7 +546,7 @@ a {
   display: table;
   clear: both;
 }
-/* line 29, ../sass/parts/_about.scss */
+
 .contact .contact-wrap .contact-intro h3 {
   font-size: 18px;
   font-size: 1.8rem;
@@ -554,7 +554,7 @@ a {
   text-align: center;
   font-weight: 500;
   margin-bottom: 20px;
-  color:#000;
+  color:#000000;
 }
 
 .contact .contact-wrap .contact-intro p:last-of-type {
@@ -573,13 +573,13 @@ padding-left: 0%;
 margin-right: 0%;
 padding-right: 0%;
 }
-/* line 38, ../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+
 .contact .contact-wrap:after {
 content: "";
 display: table;
 clear: both;
 }
-/* line 19, ../sass/parts/_about.scss */
+
 .contact .contact-wrap .contact-intro {
 margin-left: 17.14286%;
 width: 65.71429%;
@@ -661,7 +661,7 @@ padding: 45px 0;
   .nav-wrapper ul li a {
     padding: 10px 24px;
     opacity: 0;
-    color: #fff;
+    color: #000000;
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 1.2px;

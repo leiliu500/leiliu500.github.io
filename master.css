@@ -14,7 +14,7 @@ body {
   height: 100vh;
   font-family: 'Playfair Display', serif;
   font-weight: normal;
-  background: url(img_1904.jpg);
+  background: url(IMG_1904.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -28,7 +28,7 @@ nav {
   margin-top: 8px;
 }
 .logo a {
-  color: #fff;
+  color: #ffff;
   font-weight: 700;
   font-size: 30px;
   letter-spacing: 1.2px;
@@ -50,7 +50,7 @@ nav ul li:last-child {
 }
 nav ul li a {
   display: inline-block;
-  color: #fff;
+  color: #ffff;
   text-decoration: none;
   font-size: 14px;
   letter-spacing: 1.2px;
@@ -122,7 +122,7 @@ nav ul li a:hover::after {
   .nav-wrapper ul li a {
     padding: 10px 24px;
     opacity: 0;
-    color: #fff;
+    color: #000000;
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 1.2px;
